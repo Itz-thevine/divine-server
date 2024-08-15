@@ -1,0 +1,456 @@
+{
+    "exam_duration": 21,
+    "schedule": [       
+      {
+        "day": 1,
+        "courses": [
+          {
+            "course_name": "English Language",
+            "exam_date": "2024-08-25",
+            "days_till_exam": 11,
+            "priority": 2,
+            "difficulty": 6,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Chemistry",
+            "exam_date": "2024-08-28",
+            "days_till_exam": 14,
+            "priority": 4,
+            "difficulty": 9,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 2,
+        "courses": [
+          {
+            "course_name": "English Language",
+            "exam_date": "2024-08-25",
+            "days_till_exam": 10,
+            "priority": 2,
+            "difficulty": 6,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Chemistry",
+            "exam_date": "2024-08-28",
+            "days_till_exam": 13,
+            "priority": 4,
+            "difficulty": 9,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 3,
+        "courses": [
+          {
+            "course_name": "Chemistry",
+            "exam_date": "2024-08-28",
+            "days_till_exam": 12,
+            "priority": 4,
+            "difficulty": 9,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 16,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 4,
+        "courses": [
+          {
+            "course_name": "Chemistry",
+            "exam_date": "2024-08-28",
+            "days_till_exam": 11,
+            "priority": 4,
+            "difficulty": 9,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 15,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 5,
+        "courses": [
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 14,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 26,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 6,
+        "courses": [
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 13,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 25,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 7,
+        "courses": [
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 24,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 31,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 8,
+        "courses": [
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 23,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 30,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 9,
+        "courses": [
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 22,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 29,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 10,
+        "courses": [
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 21,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 28,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 11,
+        "courses": [
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 20,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 27,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 12,
+        "courses": [
+          {
+            "course_name": "Physics",
+            "exam_date": "2024-09-10",
+            "days_till_exam": 19,
+            "priority": 5,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 26,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 13,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 25,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 5,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 14,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 24,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 4,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 15,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 23,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 3,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 16,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 22,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 2,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 17,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 21,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          },
+          {
+            "course_name": "Mathematics",
+            "exam_date": "2024-09-01",
+            "days_till_exam": 1,
+            "priority": 3,
+            "difficulty": 8,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 18,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 20,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 19,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 19,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 20,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 18,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      },
+      {
+        "day": 21,
+        "courses": [
+          {
+            "course_name": "Biology",
+            "exam_date": "2024-09-15",
+            "days_till_exam": 17,
+            "priority": 1,
+            "difficulty": 7,
+            "percent_of_study_time": 0.5
+          }
+        ],
+        "daily_study_time": 4,
+        "inbetween_breaks": 15
+      }
+    ]
+}  
