@@ -1,7 +1,7 @@
 from groq import Groq
 
 client = Groq(
-    api_key="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"
+    api_key="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"
 )
 
 prompt = f"""
